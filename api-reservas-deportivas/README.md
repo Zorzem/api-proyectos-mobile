@@ -7,7 +7,7 @@ para entrar y administración de bloqueos y reservas fijas.
 
 Tu app ya tiene sus tipos en `src/tipos/`, copiados del PRD. **Esta API devuelve exactamente
 esos tipos**: no tenés que cambiar nada cuando pases del mock a `fetch`. Lo que agrega la API
-(el sobre de las respuestas, la sesión, los archivos) está en `contract/api.ts`.
+(el sobre de las respuestas, la sesión, los archivos) está en `contract/api.ts` .
 
 > **Estado:** la API está completa salvo la parte de notificaciones que programan ustedes:
 > guardar los tokens de Expo y mandar las push. Los tres endpoints de `/dispositivos`
